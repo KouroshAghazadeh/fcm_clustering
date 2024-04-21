@@ -7,5 +7,5 @@ this project inspired from Xiaojun Yang , Mingjun Zhu, Bo Sun , Member, IEEE, Zh
 paper's link: https://ieeexplore.ieee.org/document/10068280
 
 right now, i'm focusing on FCMM clutering on HSI Images. . It is wellknown that many pixel points in HSI are distributed
-anomalously. The proposed algorithm can directly cluster HSI data points represented by multiple subclusters, and this reduces the impact of anomalies on the
+anomalously. The proposed algorithm can directly cluster HSI data points represented by multiple subclusters, and this reduces the impact of anomalies on the
 algorithm.
